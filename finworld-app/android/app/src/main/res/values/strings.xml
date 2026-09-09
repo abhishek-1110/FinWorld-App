@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FinWorld</string>
+    <string name="title_activity_main">FinWorld</string>
+    <string name="package_name">com.finworld.app</string>
+    <string name="custom_url_scheme">com.finworld.app</string>
+</resources>
